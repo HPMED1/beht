@@ -152,7 +152,7 @@ function toggleActive(){
 function next(){
 
     if(question_count == questions.length -1){
-        location.href = "../beht/Result";
+        location.href = "..\\beht\\Result";
     }
     console.log(question_count);
 
