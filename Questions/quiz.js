@@ -152,7 +152,7 @@ function toggleActive(){
 function next(){
 
     if(question_count == questions.length -1){
-        window.location.pathname = "/beht/Result";
+        window.location.pathname = "../beht/Result";
     }
     console.log(question_count);
 
